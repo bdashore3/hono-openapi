@@ -1,5 +1,5 @@
 {
-  "name": "hono-openapi",
+  "name": "@bdashore3/hono-openapi",
   "description": "OpenAPI schema generator for Hono",
   "version": "0.1.5",
   "license": "MIT",
@@ -7,17 +7,17 @@
     "hono",
     "openapi"
   ],
-  "homepage": "https://github.com/rhinobase/hono-openapi",
+  "homepage": "https://github.com/bdashore3/hono-openapi",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhinobase/hono-openapi.git",
+    "url": "git+https://github.com/bdashore3/hono-openapi.git",
     "directory": "packages/ui"
   },
   "bugs": {
-    "url": "https://github.com/rhinobase/hono-openapi/issues"
+    "url": "https://github.com/bdashore3/hono-openapi/issues"
   },
   "peerDependencies": {
     "hono": "^4.6.4",
