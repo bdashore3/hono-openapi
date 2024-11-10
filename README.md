@@ -1,5 +1,9 @@
 # 📜 Hono OpenAPI
 
+## Disclaimer
+
+This is a fork of the original hono-openapi package for testing purposes. Do not install this and use [hono-openapi](https://www.npmjs.com/package/hono-openapi) instead.
+
 [![npm version](https://img.shields.io/npm/v/hono-openapi.svg)](https://npmjs.org/package/hono-openapi "View this project on NPM")
 [![npm downloads](https://img.shields.io/npm/dm/hono-openapi)](https://www.npmjs.com/package/hono-openapi)
 [![license](https://img.shields.io/npm/l/hono-openapi)](LICENSE)
